@@ -1,0 +1,18 @@
+# Python caching
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# Backup Datasets:
+gesture.csv
+gestures_old.csv
